@@ -1,6 +1,6 @@
 {
     "project": "Kent Relocations",
-    "host": "main--kentrelocations-www--wfranksadobe.hlx.live",
+    "host": "main--kentrelocations--wfranksadobe.hlx.live",
     "plugins": [
         {
             "id": "library",
