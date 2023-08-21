@@ -1,6 +1,6 @@
 {
-    "project": "SecurBank",
-    "host": "main--securbank-www--wfranksadobe.hlx.live",
+    "project": "Kent Relocations",
+    "host": "main--kentrelocations-www--wfranksadobe.hlx.live",
     "plugins": [
         {
             "id": "library",
